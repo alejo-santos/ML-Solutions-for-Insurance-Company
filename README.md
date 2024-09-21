@@ -1,5 +1,3 @@
-# -Machine-Learning-Solutions-for-Insurance-Company
-
 **Project Overview: Machine Learning Solutions for Insurance Company**
 
 An insurance company seeks to leverage machine learning to address several key business challenges. Your task is to evaluate the feasibility of applying machine learning techniques to achieve the following objectives:
